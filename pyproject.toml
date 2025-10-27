@@ -7,5 +7,6 @@ requires-python = ">=3.10"
 
 dependencies = [
     "dbt-core",
-    "dbt-databricks"
+    "dbt-databricks",
+    "faker>=37.11.0",
 ]
